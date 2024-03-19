@@ -4,7 +4,7 @@
 This repository contains data and code for an ongoing sales data analysis project. The goal of this project is to extract valuable insights from the provided sales data to inform business decisions and improve overall performance.<br />
 <br />
 <strong>Data<strong> <br />
-The dataset consists of historical sales data, including information such as product sales, timestamps, customer demographics, and transaction details. The data is stored in a CSV file named combined_sales_data.csv.<br />
+The dataset consists of historical sales data, including information such as product sales, timestamps, customer demographics, and transaction details. The data is stored in a combined CSV file named combined_sales_data.csv. You can also find specific data for each month in the Sales_data<br />
 <br />
 <strong>Analysis<strong> <br />
 <strong>Key Questions Explored:<strong><br />
