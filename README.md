@@ -17,6 +17,15 @@ The dataset consists of historical sales data, including information such as pro
 <br />
 <strong>Additional Questions for Future Exploration:<strong><br />
 1. What is the best time to have advertisement monthly on different days?<br />
+2. How does the quantity ordered for each product vary over time?<br />
+3. Are there any regional preferences for certain products?<br />
+4. Are there specific times of the day, week, or month when sales are highest?<br />
+5. How do sales vary throughout the day or week?<br />
+6. Can past sales data be used to predict future sales?<br />
+7. Are there any identifiable trends or patterns that can inform sales forecasts?<br />
+8. Based on historical sales data, what is the projected sales revenue for the upcoming months?<br />
+
+
 <br />
 <strong>Future Work<strong><br />
 1. Continuously analyze additional factors influencing sales performance.<br />
