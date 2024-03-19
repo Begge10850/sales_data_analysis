@@ -8,10 +8,10 @@ The dataset consists of historical sales data, including information such as pro
 <br />
 <strong>Analysis<strong> <br />
 <strong>Key Questions Explored:<strong><br />
-1. Best and worst month for sales.
-2. Total sales per month.
-3. Total sales per city.
-4. Total sales for each product
+1. Best and worst month for sales.<br />
+2. Total sales per month.<br />
+3. Total sales per city.<br />
+4. Total sales for each product<br />
 5. Product Affinity Analysis: Identify products frequently purchased together to inform cross-selling or bundling strategies.<br />
 
 <br />
