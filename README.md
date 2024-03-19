@@ -24,10 +24,3 @@ The dataset consists of historical sales data, including information such as pro
 6. Can past sales data be used to predict future sales?<br />
 7. Are there any identifiable trends or patterns that can inform sales forecasts?<br />
 8. Based on historical sales data, what is the projected sales revenue for the upcoming months?<br />
-
-
-<br />
-<strong>Future Work<strong><br />
-1. Continuously analyze additional factors influencing sales performance.<br />
-2. Regularly update findings and recommendations based on new data and insights.<br />
-<br />
