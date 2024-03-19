@@ -8,11 +8,15 @@ The dataset consists of historical sales data, including information such as pro
 <br />
 <strong>Analysis<strong> <br />
 <strong>Key Questions Explored:<strong><br />
-1. Product Affinity Analysis: Identify products frequently purchased together to inform cross-selling or bundling strategies.<br />
+1. Best and worst month for sales.
+2. Total sales per month.
+3. Total sales per city.
+4. Total sales for each product
+5. Product Affinity Analysis: Identify products frequently purchased together to inform cross-selling or bundling strategies.<br />
 
 <br />
 <strong>Additional Questions for Future Exploration:<strong><br />
-1. What is the correct time to have advertisement monthly on different days?<br />
+1. What is the best time to have advertisement monthly on different days?<br />
 <br />
 <strong>Future Work<strong><br />
 1. Continuously analyze additional factors influencing sales performance.<br />
