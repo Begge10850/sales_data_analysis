@@ -81,12 +81,11 @@ The dashboard was developed using Power BI Service, with interactive slicers, KP
 
 ### Dashboard Demonstration
 
-A recorded demonstration shows the dashboard's interactive filtering and navigation.
+A recorded walkthrough of the completed two-page Power BI Sales Performance Dashboard (2015–2018), demonstrating interactive filtering, dashboard navigation, executive KPIs, sales trends, customer segmentation and product performance.
 
-**Video:** [Interactive Power BI Sales Dashboard Demonstration](https://youtu.be/w2pjmoucwtY)
+[![Watch the Power BI Dashboard Demonstration](screenshots/02-market-performance.png)](https://youtu.be/V4LyME-_Wus)
 
-*This link points to the original demonstration and will be updated when the new recording is published.*
-
+**[Watch the full dashboard demonstration on YouTube](https://youtu.be/V4LyME-_Wus)**
 ---
 
 ## 2. Python Sales Data Analysis
